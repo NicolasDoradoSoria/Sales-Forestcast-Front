@@ -1,7 +1,7 @@
 Sales Forecast App
 Aplicación full-stack que permite a usuarios cargar archivos de ventas (Excel), visualizar los datos y generar predicciones de ventas futuras (forecast) por SKU usando técnicas de series temporales. El frontend es una app mobile responsive hecha en React + Material UI, y el backend está desarrollado con Node.js, Express y Prisma (PostgreSQL).
 
-Login
+#Login
 email: 'user@example.com'. 
 passworld: "user123"
 
