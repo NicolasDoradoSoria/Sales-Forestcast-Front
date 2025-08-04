@@ -1,0 +1,56 @@
+:root {
+  /* PRIMARY COLORS VARIABLES */
+  --primary-color: #3b56b0;
+  --error-color: #d32f2f;
+  --success-color: #20a539;
+  --rate-color: #b4a448;
+  --disabled-color: #bbb;
+  --black: black;
+  --white: white;
+  --light-gray: #eee;
+
+  /* LAYOUT VARIABLES */
+  --public-header-height: 8vh;
+  --page-header-height: 65px;
+  --footer-height: 8vh;
+  --background-color: #fff;
+  --variant-bg-color: #eeeeee;
+  --padding-top: 3vh;
+  --avatar-size: 80px;
+  --profile-avatar-size: 100px;
+
+  /* BUTTON VARIABLES */
+  --primary-button-bg-color: #2e2b2a;
+  --secondary-button-bg-color: #fff;
+  --cancel-button-bg-color: #FEECEC;
+  --accept-button-bg-color: #E6F4EA;
+  --finish-button-bg-color: #E3F2FD;
+  --cancel-button-txt-color: #E53935;
+  --accept-button-txt-color: #34A853;
+  --finish-button-txt-color: #42A5F5;
+  --button-width-container: 250px;
+  --button-height: 40px;
+  --button-radius: 15px;
+  --button-font-size: 16px;
+  --button-font-weight: 500;
+  --button-vertical-gap: 15px;
+
+  /* TEXT COLOR VARIABLES */
+  --primary-txt-color: #000;
+  --secondary-txt-color: #353434;
+  --primary-contrast-txt-color: #fff;
+
+  /* CARD VARIABLES */
+  --card-bg-color: #fff;
+  --card-radius: 20px;
+
+  /* RATING ICON VARIABLES */
+  --rating-icon-size: 28px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto';
+  user-select: none;
+}
